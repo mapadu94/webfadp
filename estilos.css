@@ -1,0 +1,14 @@
+body {
+    background:url("foto.png")no-repeat top center;
+    background-size: 1000px 1500px;
+}
+.texto{
+background:rgba(255, 255, 255, 0.4);
+border:solid;
+font-size: 200%;
+font-family:Helvetica;
+width: 30%;
+margin:0 auto;
+padding:em;
+
+}
